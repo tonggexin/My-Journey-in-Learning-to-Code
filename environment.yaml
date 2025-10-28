@@ -1,0 +1,7 @@
+name: pygame-env
+channels:
+  - defaults
+dependencies:
+  - python
+  - pandas 
+  - pygame

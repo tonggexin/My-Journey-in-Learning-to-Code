@@ -1,0 +1,2 @@
+
+python移动应用开发：https://kivy.org/doc/stable/gettingstarted/installation.html
