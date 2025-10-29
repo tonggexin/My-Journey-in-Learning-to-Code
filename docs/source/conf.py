@@ -29,3 +29,11 @@ language = 'zh_CN'
 # html_theme = 'alabaster'
 html_theme = 'furo'
 html_static_path = ['_static']
+html_theme_options = {
+    "sidebar_hide_name": True,
+    "light_css_variables": {
+        "color-brand-primary": "红色",
+        "color-brand-content": "#CC3333",
+        "color-admonition-background": "橙色",
+    },
+}

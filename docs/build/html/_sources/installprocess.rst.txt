@@ -1,7 +1,10 @@
 安装sphinx的过程
-===============
+=================
 
+成功安装
+--------
 .. code-block:: bash
+
    (f:\MyGame\TraeFuck\TraeSecond\PyGameSun\.conda) F:\MyGame\TraeFuck\TraeSecond\PyGameSun>sphinx-quickstart docs
    Welcome to the Sphinx 8.2.3 quickstart utility.
 
@@ -41,7 +44,7 @@
    where "builder" is one of the supported builders, e.g. html, latex or linkcheck.
 
 构建Html的警告
-=============
+---------------
 
 .. code-block:: bash
 
@@ -62,6 +65,7 @@
    maximum 1 argument(s) allowed, 11 supplied.
 
 .. code-block:: bash
+
    (f:\MyGame\TraeFuck\TraeSecond\PyGameSun\.conda) F:\MyGame\TraeFuck\TraeSecond\PyGameSun>sphinx-quickstart docs
    Welcome to the Sphinx 8.2.3 quickstart utility.
 
@@ -125,97 +129,3 @@
    build succeeded, 2 warnings.
 
    The HTML pages are in build\html.
-
-安装指南
-========
-
-本文档提供了安装PyGameSun项目所需的详细步骤。
-
-系统要求
---------
-
-在开始安装之前，请确保您的系统满足以下要求：
-
-- Python 3.12
-- pip (Python包管理器)
-- Git
-
-安装步骤
---------
-
-克隆代码仓库
-~~~~~~~~~~~~
-
-首先，使用Git克隆项目代码：
-
-.. code-block:: bash
-
-    git clone https://github.com/tonggexin/My-AI-Practice.git
-    cd My-AI-Practice
-
-创建虚拟环境
-~~~~~~~~~~~~
-
-推荐使用conda创建独立的Python虚拟环境：
-
-.. code-block:: bash
-
-    # 使用conda创建虚拟环境
-    conda create -n pygame_env python=3.12
-    conda activate pygame_env
-    
-    # 或者使用venv
-    python -m venv pygame_env
-    # Windows激活方式
-    pygame_env\Scripts\activate
-    # Linux/MacOS激活方式
-    # source pygame_env/bin/activate
-
-安装依赖
-~~~~~~~~
-
-使用pip安装项目所需的依赖包：
-
-.. code-block:: bash
-
-    pip install -r requirement.txt
-
-验证安装
-~~~~~~~~
-
-运行以下命令验证pygame是否正确安装：
-
-.. code-block:: bash
-
-    python check_pygame.py
-
-如果安装成功，您将看到pygame相关信息的输出。
-
-常见问题
---------
-
-1. **找不到SDL2库**
-   
-   如果出现SDL2相关错误，请确保已安装SDL2库。在Windows上，pygame包通常会包含所需的DLL文件。
-
-2. **Python版本不兼容**
-   
-   请确保使用Python 3.12版本，这是项目推荐的版本。
-
-3. **权限问题**
-   
-   在安装过程中遇到权限错误时，可以尝试使用管理员权限（Windows）或sudo（Linux/MacOS）运行命令。
-
-获取支持
---------
-
-如果您在安装过程中遇到任何问题，可以通过以下方式获取帮助：
-
-- 查阅项目的README文件
-- 在GitHub上提交Issue
-- 参考pygame官方文档
-
-下一步
-------
-
-成功安装后，您可以查看 :doc:`usage` 文档了解如何使用本项目。
