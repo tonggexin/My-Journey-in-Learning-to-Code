@@ -12,8 +12,9 @@ documentation for details.
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
-   usage
-   installprocess
+   测试/installprocess
+   测试/usage
+   ImageText

@@ -9,13 +9,16 @@
 project = '我和所有本科美女同学发生了性关系'
 copyright = '2025, 玉蝶游龙'
 author = '玉蝶游龙'
-release = '1.0'
+release = '1.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
     'sphinx.ext.duration',
+    'sphinx.ext.apidoc',
+    'sphinx.ext.autosectionlabel',
+    'sphinx.ext.graphviz',
 ]
 
 templates_path = ['_templates']
@@ -36,4 +39,9 @@ html_theme_options = {
         "color-brand-content": "#CC3333",
         "color-admonition-background": "橙色",
     },
+    "navigation_with_keys": True,
 }
+html_logo = "_static/logo/1761781029225xkiid2k9.jpg"
+
+
+numfig = True
