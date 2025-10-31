@@ -23,10 +23,10 @@ pygame.display.set_caption("李欣远")
 # # 绘制一个四分之一圆，draw_top_right=true，width=5
 # pygame.draw.circle(screen, (255, 0, 255), (200, 200), 50, 5, True)
 # 绘制一段弧形，中心坐标(300,300)，半径=50，start_angle=0，stop_angle=90，width=3
-pygame.draw.arc(screen, (0, 25, 255), (250, 250, 100, 100), -3.14/2, 3.14/2, 3)
+# pygame.draw.arc(screen, (0, 25, 255), (250, 250, 100, 100), -3.14/2, 3.14/2, 3)
 
-pygame.display.update()
-pygame.time.wait(5000)
+# pygame.display.update()
+# pygame.time.wait(5000)
 # 游戏主循环应该放在这里
 # 主循环是游戏的核心，它持续运行直到用户退出游戏
 # 主循环通常包含以下几个部分：
