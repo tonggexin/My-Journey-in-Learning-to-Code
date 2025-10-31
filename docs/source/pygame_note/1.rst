@@ -1,0 +1,48 @@
+pygame manual
+=============
+
+pygame.Surface
+^^^^^^^^^^^^^^
+    用于表示图像的pygame对象。
+    pygame.Surface.blit
+    将一个图像绘制到另一个图像上。
+    pygame.Surface.blits
+    将许多图像绘制到另一张上
+    pygame.Surface.convert
+    更改图像的像素格式
+    pygame.Surface.covert_alpha
+    更改图像的像素格式，包括每个像素的透明度
+    pygame.Surface.copy
+    创建表面的新副本
+    pygame.Surface.fill
+    用纯色填充表面
+    pygame.Surface.set_colorkey
+    设置透明色键
+    pygame.Surface.get_colorkey
+    获取当前透明色键
+    pygame.Surface.set_alpha
+    为整个Surface图像设置透明度
+    pygame.Surface.get_alpha
+    获取当前的表面透明度值
+    pygame.Surface.lock
+    锁定表面内存以供像素访问
+    pygame.Surface.unlock
+    解锁表面内存，允许其他操作
+    pygame.Surface.get_locked
+    检查表面内存是否已锁定
+    pygame.Surface.get_locks
+    获取当前锁定的表面内存列表
+    pygame.Surface.get_at
+    获取表面上指定位置的单个像素颜色
+    pygame.Surface.set_at
+    设置表面上指定位置的单个像素颜色
+    pygame.Surface.get_at_mapped
+    获取表面上指定位置的单个像素颜色（映射到颜色索引）。获取单个像素的映射颜色值。
+    pygame.Surface.get_palette
+    获取8位表面的颜色调色板
+    pygame.Surface.get_palette_at
+    获取调色板中单个条目的颜色
+    pygame.Surface.set_palette
+    设置8位表面的颜色调色板
+    pygame.Surface.set_palette_at
+    设置调色板中单个条目的颜色
