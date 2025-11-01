@@ -2,3 +2,5 @@
 python移动应用开发：https://kivy.org/doc/stable/gettingstarted/installation.html
 
 git手册网站：https://git-scm.com/docs/git-clone
+
+https://git-scm.com/book/zh/v2/Git-%E5%88%86%E6%94%AF-%E5%8F%98%E5%9F%BA
