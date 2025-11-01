@@ -30,7 +30,7 @@ while running:
     
     # 2. 渲染"李欣远"（带下划线）
     font.set_underline(True)
-    text2 = font.render("李欣远", True, (0, 10, 0))
+    text2 = font.render("李欣远", True, (0, 10, 0), "skyblue")
     
     # 3. 渲染"！"（不带下划线）
     font.set_underline(False)
@@ -43,6 +43,11 @@ while running:
     screen.blit(text2, (x_pos, 100))
     x_pos += text2.get_width()
     screen.blit(text3, (x_pos, 100))
+    
+    # 在左下角画一个爱心的形状
+    # 爱心的顶点坐标
+    vertices = [(100, 200), (150, 150), (200, 200), (150, 250)]
+    pygame.draw.polygon(screen, (255, 0, 0), vertices)
     
     # 更新显示
     pygame.display.update()
