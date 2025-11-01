@@ -3,6 +3,8 @@
 
 :doc:`protagonist`
 
+:doc:`draft2`
+
 李欣远叉开腿，悄悄地将手指塞进阴道口，轻轻地摩擦。
 课堂上，老师正在讲课，声音并不响亮。好在课堂的周围比较吵闹，掩盖了李欣远潮红的面色和微微的喘息声。
 那里痒痒的，十分渴望仝XX粗壮的阴茎插入。
@@ -36,3 +38,23 @@ Problem is... Mans got morning wood. So I say I'll get up in a second but then s
 So then I sit up in the beanbag:Comfy: and then she says "you need to actually get out of the beanbag:Comfy: and stand up so I know that you're okay and ready for the day"
 
 so my theory was that instead of covering my bulge with my hands, I put my hands to the side because if I cover my bulge it'll just draw more attention to it so I get up and stand up with my hands to my side and literally immediately she looks down at it and notices and the bulge looked way more visible than I thought it was standing up and then she smirks and looks down at my crotch and says "well it looks like he's ready for the day" :forcedsmile: and then my face goes bright red and I cover it with my hands and then I just look at her and don't say anything and then she says sorry and turns around and goes to walk back out the tent so I put my hands back to my side but then all of a sudden she's turns back around to tell me something and I immediately put my hands back and shes like "oh yeah, sorry" and then she asks me if I filled in this form thingy yesterday blahblahblah and I'm like "yeh" and then she's like ok and then walks out the tent and ye. All the next times we interacted since I had one of my lessons with her it was really awkward and it was just as if it had never happened.
+
+.. image:: porn_image/image1.png
+.. 
+
+小梅被干得浪叫：“爹，你他妈的太会操了，比你儿子强百倍！”老王换着姿势，狗爬式、传教士，把小梅操得高潮迭起，骚水喷了一床。
+
+.. image:: porn_image/image2.png
+.. 
+老番茄躺在下面，黑椒盖饭骑在他身上，骚穴吞没了他的鸡巴，上下套弄着，肉丝袜摩擦出诱人的声响。单男从后面跪着，瞄准她的菊花，润滑后猛地顶入，双洞齐插的快感让她尖叫起来：“啊！好爽！上下一起插，鸡巴填满我了！操烂我的骚逼和屁眼！”她扭动着腰肢，迎合着两个男人的节奏，淫水直流，房间里回荡着啪啪的撞击声和她的浪叫。
+
+.. image:: porn_image/image3.png
+.. 
+她跪在小杰身前，解开他的裤子，粗大肉棒弹跳而出。丽芳毫不犹豫，张嘴裹住龟头，舌头灵活舔弄，吸得啧啧作响。“妈，你好骚！”小杰低吼，抓住她的头发，猛顶她的喉咙。丽芳呛得眼泪流，口水滴到巨乳上，却更兴奋。她脱下睡裙，露出湿透的蕾丝内裤，趴在床上，翘臀高抬：“儿子，操妈妈！”小杰从后面狠狠插入，撞得丽芳浪叫连连，淫水顺着大腿流下，床单湿了一片。
+
+.. image:: porn_image/image4.png
+.. 
+
+丽芳在日记里写道：“被儿子操到高潮迭起，我爱这乱伦快感。”她从贤妻良母堕为淫娃，家中成了母子淫乱的乐园。
+
+
